@@ -1,0 +1,3 @@
+*.vs
+*appsettings.json
+*2eLNjQ4jv89qpJFXxotju1W6MwN
